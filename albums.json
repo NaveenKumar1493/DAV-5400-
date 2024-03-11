@@ -1,0 +1,38 @@
+[
+  {
+    "album_title": "Thriller",
+    "artist": "Michael Jackson",
+    "year": 1982,
+    "songs": [
+      "Billie Jean",
+      "Beat It",
+      "Wanna Be Startin' Somethin'",
+      "Human Nature",
+      "P.Y.T. (Pretty Young Thing)"
+    ]
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "year": 1977,
+    "songs": [
+      "Dreams",
+      "Go Your Own Way",
+      "Don't Stop",
+      "The Chain",
+      "You Make Loving Fun"
+    ]
+  },
+  {
+    "album_title": "Born To Run",
+    "artist": "Bruce Springsteen",
+    "year": 1975,
+    "songs": [
+      "Born to Run",
+      "Tenth Avenue Freeze Out",
+      "She's the One",
+      "Jungleland",
+      "Badlands"
+    ]
+  }
+]
